@@ -8,6 +8,7 @@
 |---|---|---|
 | Что рассказывали на Красконе | [Краскон](kraskon.md) | [Краскон.docx](word/Краскон.docx) |
 | Машинное зрение | [ТЗ по машинному зрению](tz-vision.md) | [Word](word/TZ_1_Mashinnoe_zrenie.docx) |
+| Машинное зрение подробнее| [ТЗ CV](tz_CV.md) | [Word](<word/ТЗ CV.docx>) |
 | Разделение таблицы и создание документов в 1С | [ТЗ по 1С](tz-1c.md) | [Word](word/TZ_2_Razdelenie_tablicy_1C.docx) |
 
 ## Как работать с текстом
